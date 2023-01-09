@@ -103,7 +103,8 @@ var TextScramble = (function () {
 var phrases = [
   "Adventure",
   "Experience",
-  "Thrill"
+  "Thrill",
+  "Memories"
 ];
 var el = document.querySelector(".textx");
 var fx = new TextScramble(el);
